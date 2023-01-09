@@ -8,8 +8,6 @@ public class klm {
 
   System.out.println("klm");
 
-		bbynnuini
-
 	}
 
 }
